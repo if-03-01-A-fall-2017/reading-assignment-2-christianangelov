@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>cheat</title>
+  </head>
+  <body>
+    <h1>HTML</h1>
+    <p>elements of htmlproperty: <..tagname>Content goes here...</..tagname></p>
+    <p>Identify void elements and how they are denoted: They must not have an end tag in HTML.</p>
+    <p>correct declarration for ''html 5: <´´!DOCTYPE html> </p>
+    <h1>CSS</h1>
+    <p></p>
+  </body>
+</html>
